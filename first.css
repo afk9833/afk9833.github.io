@@ -1,5 +1,18 @@
-p {
-    font-family: 'Arial';
-    font-size: 40px;
-    background-color: green;
+.big {
+    color: blue;
+}
+
+#b325, .b326 {
+    border-style: solid;
+    border-width: 1px;
+    border-color: green;
+    font-weight: bold;
+}
+
+p.asteroid.big {
+    background: yellow;
+}
+
+.b329 {
+    font-weight: bold;
 }
